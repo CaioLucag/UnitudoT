@@ -277,7 +277,7 @@
             border: 4px solid #A4D4FF;
             top: 15px;
             border-radius: 50%;
-            z-index: 1;
+            z-index: 2;
         }
 
         .timeline-left {
@@ -406,4 +406,5 @@
             text-decoration: none;
             color: white;
             font-size: 24px;
+
         }
